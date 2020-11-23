@@ -13,7 +13,7 @@ Leveraging FHIR based APIs, Public Health and Research organizations intend to a
 
 ### MedMorph Actors and Definitions
 
-This section defines the Actors and Systems that would be interacting to realize the capabilities of the above use cases.
+This section defines the interaction between the Actors and Systems to realize the capabilities of the above use cases.
 
 1. __Electronic Health Record (EHR)__:  A system used in care delivery for patients and captures and stores data about patients and makes the information available instantly and securely to authorized users. While an EHR does contain the medical and treatment histories of patients, an EHR system is built to go beyond standard clinical data collected in a provider’s provision of care location and can be inclusive of a broader view of a patient’s care. EHRs are a vital part of health IT and can:
 
